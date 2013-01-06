@@ -43,7 +43,7 @@ Released   : 20110815
 		$('iframe#theiframe').attr('src', url);
 		
 		$('li#dates').removeClass('current_page_item');
-		$('li#media').removeClass('current_page_item');
+		$('li#photos').removeClass('current_page_item');
 		$('li#home').removeClass('current_page_item');
 		$('li#contact').removeClass('current_page_item');
 		
@@ -77,7 +77,7 @@ Released   : 20110815
 			<ul>
 				<li id="home" class="current_page_item"><a href="javascript:loadLink('home.html', 'home')">Home</a></li>
 				<li id="dates"><a href="javascript:loadLink('dates.html', 'dates')">Dates</a></li>
-				<li id="media"><a href="javascript:loadLink('photos.html', 'media')">Media</a></li>
+				<li id="photos"><a href="photos.php">Pictures</a></li>
 				<li id="contact"><a href="javascript:loadLink('contact.html', 'contact')">Contact</a></li>
 			</ul>
 		</div>

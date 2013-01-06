@@ -45,7 +45,7 @@ Released   : 20110815
 			<ul>
 				<li id="home"><a href="index.php">Home</a></li>
 				<li id="dates"><a href="index.php#dates">Dates</a></li>
-				<li id="media" class="current_page_item"><a href="">Media</a></li>
+				<li id="media" class="current_page_item"><a href="">Photos</a></li>
 				<li id="contact"><a href="index.php#contact">Contact</a></li>
 			</ul>
 		</div>
