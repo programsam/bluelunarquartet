@@ -17,6 +17,7 @@ Released   : 20110815
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>Blue Lunar Quartet</title>
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+<meta name="google-site-verification" content="qRq62LQBrl6q0Pukk0nIcsmwIblzMSpMoCm16z4mS60" />
 <link rel="shortcut icon" href="http://bluelunarquartet.com/favicon.ico" />
 <script type="text/javascript" src="jquery-1.8.2.js"></script> 
 <script type="text/javascript">              
@@ -57,7 +58,7 @@ Released   : 20110815
 		<div id="logo">
 			<h1><a href="#">Blue Lunar Quartet</a></h1>
 			<p><br />
-			<a target="_blank" href="mailto:bluelunar@bluelunar.zapto.org">
+			<a target="_blank" href="mailto:bluelunar@bluelunarquartet.com">
 				<img width=30 height=30 src="pics/email-icon.jpg" border=0 /></a>
 			<a target="_blank" href="https://www.facebook.com/BlueLunarQuartet">
 				<img width=35 height=30 src="pics/facebook.png" border=0 /></a>
@@ -93,8 +94,8 @@ Released   : 20110815
 				<li>
 					<h2>music</h2>
 					<p>
-					<object type="application/x-shockwave-flash" width="400" height="438" data="http://bluelunar.zapto.org/MusicPlayer.swf">
-					<param name="movie" value="http://bluelunar.zapto.org/MusicPlayer.swf" />
+					<object type="application/x-shockwave-flash" width="400" height="438" data="http://bluelunarquartet.com/MusicPlayer.swf">
+					<param name="movie" value="http://bluelunarquartet.com/MusicPlayer.swf" />
 					</object>
 					</p>
 				</li>
@@ -107,7 +108,7 @@ Released   : 20110815
 </div>
 
 <div id="footer">
-	<p>Copyright &copy;2012 Blue Lunar Quartet, Ben Smith, Carter Harris, Andy Powell, Chad Mangum. All rights reserved. Design by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>.</p>
+	<p>Copyright &copy;2012-2013 Blue Lunar Quartet, Ben Smith, Carter Harris, Andy Powell, Chad Mangum. All rights reserved. Design by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>.</p>
 </div>
 <!-- end #footer -->
 </body>

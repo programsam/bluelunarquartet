@@ -1,61 +1,61 @@
+<?xml version="1.0" ?>
 		<track>
- 			<path>https://s3.amazonaws.com/binkmedia/public/snd/623/03%20Lunar%20Blues.mp3</path>
-			<title>Lunar Blues (Harris)</title>
+ 			<path>https://s3.amazonaws.com/binkmedia/public/snd/648/03%20Manteca.mp3</path>
+			<title>Manteca (arr. Harris)</title>
 			<num>1</num>
 			<length>29481</length>
 		</track>
 		<track>
- 			<path>https://s3.amazonaws.com/binkmedia/public/snd/620/01%20Jeannine.mp3</path>
-			<title>Jeannine (Pearson)</title>
+ 			<path>https://s3.amazonaws.com/binkmedia/public/snd/644/02%20Moon%20Glasses.mp3</path>
+			<title>Moon Glasses (Harris)</title>
 			<num>2</num>
 			<length>29481</length>
 		</track>
 		<track>
- 			<path>https://s3.amazonaws.com/binkmedia/public/snd/625/03%20The%20Silence.mp3</path>
-			<title>The Silence (Smith)</title>
-			<num>9</num>
-			<length>29481</length>
-		</track>
- 		<track>
- 			<path>https://s3.amazonaws.com/binkmedia/public/snd/626/03%20Manteca-2.mp3</path>
-			<title>Manteca (arr. Harris)</title>
+ 			<path>https://s3.amazonaws.com/binkmedia/public/snd/644/03%20Red%20Tape.mp3</path>
+			<title>Red Tape (Marcus)</title>
 			<num>3</num>
 			<length>29481</length>
 		</track>
-		<track>
- 			<path>https://s3.amazonaws.com/binkmedia/public/snd/624/02%20I%20Will%20Cut%20You-2.mp3</path>
+ 		<track>
+ 			<path>https://s3.amazonaws.com/binkmedia/public/snd/644/04%20I%20Will%20Cut%20You.mp3</path>
 			<title>I Will Cut You (Powell)</title>
-			<num>7</num>
-			<length>29481</length>
-		</track>
-		<track>
- 			<path>https://s3.amazonaws.com/binkmedia/public/snd/620/05%20Red%20Tape.mp3</path>
-			<title>Red Tape (Marcus)</title>
-			<num>6</num>
-			<length>29481</length>
-		</track>		
-		<track>
- 			<path>https://s3.amazonaws.com/binkmedia/public/snd/626/05%20Peace.mp3</path>
-			<title>Peace (Richardson)</title>
 			<num>4</num>
 			<length>29481</length>
 		</track>
 		<track>
- 			<path>https://s3.amazonaws.com/binkmedia/public/snd/626/06%20My%20Favorite%20Things.mp3</path>
-			<title>My Favorite Things (arr. Harris)</title>
-			<num>1</num>
-			<length>29481</length>
-		</track>
-		<track>
- 			<path>https://s3.amazonaws.com/binkmedia/public/snd/623/04%20All%20Blues.mp3</path>
-			<title>All Blues (Davis)</title>
+ 			<path>https://s3.amazonaws.com/binkmedia/public/snd/644/01%20Sandu.mp3</path>
+			<title>Sandu</title>
 			<num>5</num>
 			<length>29481</length>
 		</track>
 		<track>
- 			<path>https://s3.amazonaws.com/binkmedia/public/snd/611/01%20Equinox%20Reggae.mp3</path>
-			<title>Equinox Reggae (Coltrane)</title>
+ 			<path>https://s3.amazonaws.com/binkmedia/public/snd/648/02%20Peace.mp3</path>
+			<title>Peace (Richardson)</title>
+			<num>6</num>
+			<length>29481</length>
+		</track>
+		<track>
+ 			<path>https://s3.amazonaws.com/binkmedia/public/snd/642/03%20Someday%20my%20prince%20will%20come-2.mp3</path>
+			<title>Someday My Prince Will Come</title>
 			<num>7</num>
 			<length>29481</length>
 		</track>
-
+		<track>
+ 			<path>https://s3.amazonaws.com/binkmedia/public/snd/640/02%20My%20Favorite%20Things.mp3</path>
+			<title>My Favorite Things</title>
+			<num>8</num>
+			<length>29481</length>
+		</track>
+		<track>
+ 			<path>https://s3.amazonaws.com/binkmedia/public/snd/642/06%20Nardis-3.mp3</path>
+			<title>Nardis</title>
+			<num>9</num>
+			<length>29481</length>
+		</track>
+		<track>
+ 			<path>https://s3.amazonaws.com/binkmedia/public/snd/642/07%2044%201.mp3</path>
+			<title>44 1 (Richardson)</title>
+			<num>10</num>
+			<length>29481</length>
+		</track>
