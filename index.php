@@ -58,7 +58,7 @@ Released   : 20110815
 		<div id="logo">
 			<h1><a href="#">Blue Lunar Quartet</a></h1>
 			<p><br />
-			<a target="_blank" href="mailto:bluelunar@bluelunarquartet.com">
+			<a target="_blank" href="mailto:blunar.quartet@gmail.com">
 				<img width=30 height=30 src="pics/email-icon.jpg" border=0 /></a>
 			<a target="_blank" href="https://www.facebook.com/BlueLunarQuartet">
 				<img width=35 height=30 src="pics/facebook.png" border=0 /></a>
